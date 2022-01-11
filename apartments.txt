@@ -1,0 +1,3 @@
+apt1;Sulhi Garan Street;Nicosia;99010;80;2
+apt2;Ali Yuzbasi Street;Nicosia;99010;120;3 
+apt3;Bedrettin Demirel Street;Nicosia;99010;90;2

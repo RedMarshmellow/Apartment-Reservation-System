@@ -1,0 +1,8 @@
+apt1;James Brown;01/09/2021;01/06/2022;employee1
+apt1;Mary Oscar;01/06/2021;30/08/2021;employee1
+apt3;John William;01/09/2021;01/01/2022;employee2
+apt2;Joshua Graham;01/11/2000;20/11/2000;employee1
+apt1;Mark Stone;01/01/2000;01/02/2000;employee1
+apt2;John Smith;01/01/2000;01/02/2000;employee2
+apt3;John Snow;01/01/2000;01/02/2000;employee2
+apt1;John Snow;01/01/2100;01/02/2100;employee2
